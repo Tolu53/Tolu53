@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tolu James
-- A second year engineering in ontario tech univerisity 
+- A Mechatronic engineer and Tech Enthusiast
 
 <!---
 Tolu53/Tolu53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
